@@ -1,0 +1,2 @@
+#300000行ごとにファイルを分割（出来上がるファイル「1115fvaa」,「1115fvab」、「1115fvac」、「1115fvad」）
+split -l 300000 ./teacherdata/15featurevalue1115.csv 1115fv
